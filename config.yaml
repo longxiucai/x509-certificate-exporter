@@ -1,0 +1,8 @@
+metrics:
+  exposeRelative: true
+  exposePerCertError: true
+  exposeNotBefore: true
+  exposeExpired: true
+  exposeSAN: true
+  exposeDiagnostics: true
+
